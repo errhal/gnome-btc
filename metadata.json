@@ -1,1 +1,1 @@
-{"uuid": "GNOME_Shell_Crypto@errhal.gmail.com", "description": "Shows cryptocurrencies prices", "shell-version": ["3.22.3"], "name": "GNOME Shell Crypto"}
+{"uuid": "cryptomarkets@errhal.gmail.com", "description": "Shows cryptocurrencies prices on various markets", "shell-version": ["3.22.3"], "name": "CryptoMarkets"}
